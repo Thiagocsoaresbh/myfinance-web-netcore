@@ -18655,8 +18655,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\PlanoConta\\Cadastro.cshtml",
+      "TargetPath": "Views\\PlanoConta\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\Transacao\\Cadastro.cshtml",
+      "TargetPath": "Views\\Transacao\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\PlanoConta\\Index.cshtml",
+      "TargetPath": "Views\\PlanoConta\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18672,6 +18687,11 @@
     {
       "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\aula-pos\\my-financeweb-netcore\\src\\myfinance-web-dotnet\\Views\\Transacao\\Index,.cshtml",
+      "TargetPath": "Views\\Transacao\\Index,.cshtml",
       "FileKind": "mvc"
     },
     {
