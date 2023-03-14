@@ -4,7 +4,6 @@ namespace myfinance_web_netcore.Domain.Entities
     {
         public int? Id { get; set; }
         public string Descricao { get; set; }
-
         public string Tipo { get; set; }
     }
 }
